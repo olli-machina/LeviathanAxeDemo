@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "LeviathanAxe",
+			"Path": "E:\\Olli\\ProjectRepos\\LeviathanAxeDemo\\LeviathanAxe\\Source\\LeviathanAxe.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "LeviathanAxeEditor",
+			"Path": "E:\\Olli\\ProjectRepos\\LeviathanAxeDemo\\LeviathanAxe\\Source\\LeviathanAxeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

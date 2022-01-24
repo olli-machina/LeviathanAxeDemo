@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Olli\\ProjectRepos\\LeviathanAxeDemo\\LeviathanAxe\\Source\\LeviathanAxe\\LeviathanAxe.Build.cs",
+		"E:\\Olli\\ProjectRepos\\LeviathanAxeDemo\\LeviathanAxe\\Source\\LeviathanAxe.Target.cs",
+		"E:\\Olli\\ProjectRepos\\LeviathanAxeDemo\\LeviathanAxe\\Source\\LeviathanAxeEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

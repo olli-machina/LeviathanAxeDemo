@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-LeviathanAxe.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Olli\ProjectRepos\LeviathanAxeDemo\LeviathanAxe\Intermediate\Build\Win64\LeviathanAxeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\Olli\ProjectRepos\LeviathanAxeDemo\LeviathanAxe\Intermediate\Build\Win64\UE4Editor\Development\LeviathanAxe\LeviathanAxe.cpp.obj"
+"E:\Olli\ProjectRepos\LeviathanAxeDemo\LeviathanAxe\Intermediate\Build\Win64\UE4Editor\Development\LeviathanAxe\LeviathanAxeCharacter.cpp.obj"
+"E:\Olli\ProjectRepos\LeviathanAxeDemo\LeviathanAxe\Intermediate\Build\Win64\UE4Editor\Development\LeviathanAxe\LeviathanAxeGameMode.cpp.obj"
+"E:\Olli\ProjectRepos\LeviathanAxeDemo\LeviathanAxe\Intermediate\Build\Win64\UE4Editor\Development\LeviathanAxe\LeviathanAxe.init.gen.cpp.obj"
+"E:\Olli\ProjectRepos\LeviathanAxeDemo\LeviathanAxe\Intermediate\Build\Win64\UE4Editor\Development\LeviathanAxe\LeviathanAxeCharacter.gen.cpp.obj"
+"E:\Olli\ProjectRepos\LeviathanAxeDemo\LeviathanAxe\Intermediate\Build\Win64\UE4Editor\Development\LeviathanAxe\LeviathanAxeGameMode.gen.cpp.obj"
+"E:\Olli\ProjectRepos\LeviathanAxeDemo\LeviathanAxe\Intermediate\Build\Win64\UE4Editor\Development\LeviathanAxe\Default.rc2.res"
+/OUT:"E:\Olli\ProjectRepos\LeviathanAxeDemo\LeviathanAxe\Intermediate\Build\Win64\UE4Editor\Development\LeviathanAxe\UE4Editor-LeviathanAxe.lib"

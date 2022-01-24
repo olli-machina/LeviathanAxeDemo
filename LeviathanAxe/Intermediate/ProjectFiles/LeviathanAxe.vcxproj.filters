@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\LeviathanAxe.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{A4140CF8-D2F7-43D1-A8D7-B920CAB31FD6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\LeviathanAxe.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\LeviathanAxeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{B3846D90-AC3C-4CE2-AA82-D2CFC2B4D5C3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\LeviathanAxe">
+      <UniqueIdentifier>{7030F453-7075-477D-8CD0-49F34EE79823}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\LeviathanAxe\LeviathanAxe.Build.cs">
+      <Filter>Source\LeviathanAxe</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\LeviathanAxe\LeviathanAxe.cpp">
+      <Filter>Source\LeviathanAxe</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LeviathanAxe\LeviathanAxe.h">
+      <Filter>Source\LeviathanAxe</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\LeviathanAxe\LeviathanAxeCharacter.cpp">
+      <Filter>Source\LeviathanAxe</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LeviathanAxe\LeviathanAxeCharacter.h">
+      <Filter>Source\LeviathanAxe</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\LeviathanAxe\LeviathanAxeGameMode.cpp">
+      <Filter>Source\LeviathanAxe</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LeviathanAxe\LeviathanAxeGameMode.h">
+      <Filter>Source\LeviathanAxe</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
